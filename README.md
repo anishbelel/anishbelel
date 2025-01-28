@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anish Belel
-- 👀 I’m interested in coding and hacking
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in coding 
 
 <!---
 anishbelel/anishbelel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
